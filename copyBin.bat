@@ -1,0 +1,14 @@
+xcopy bin "ServerTest/bin" /E /Y /I
+xcopy bin "Peer1Test/bin" /E /Y /I
+xcopy bin "Peer2Test/bin" /E /Y /I
+xcopy bin "Peer3Test/bin" /E /Y /I
+xcopy bin "Peer4Test/bin" /E /Y /I
+xcopy bin "Peer5Test/bin" /E /Y /I
+xcopy bin "Peer6Test/bin" /E /Y /I
+xcopy bin "Peer7Test/bin" /E /Y /I
+xcopy bin "Peer8Test/bin" /E /Y /I
+xcopy bin "Peer9Test/bin" /E /Y /I
+xcopy bin "Peer10Test/bin" /E /Y /I
+xcopy bin "Peer11Test/bin" /E /Y /I
+xcopy bin "Peer12Test/bin" /E /Y /I
+xcopy bin "Peer13Test/bin" /E /Y /I

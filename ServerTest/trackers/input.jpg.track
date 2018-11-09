@@ -1,0 +1,7 @@
+Filename: input.jpg
+Filesize: 188327
+Description: Large_file
+MD5: ed4d5de3d0194851f486e21397914b0f
+# all comments must begin with # and must be ignored by the file parser
+# following the above fields about file to be shared will be list of peers sharing this file
+10.128.9.138:20002:0:188327:1480362684446

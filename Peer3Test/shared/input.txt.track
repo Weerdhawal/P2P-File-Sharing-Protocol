@@ -1,0 +1,13 @@
+Filename: input.txt
+Filesize: 31245
+Description: Small_file
+MD5: 67f4690cb38118bb5a1cb8e450c747f4
+# all comments must begin with # and must be ignored by the file parser
+# following the above fields about file to be shared will be list of peers sharing this file
+10.128.9.138:20008:0:4096:1480362717920
+10.128.9.138:20007:0:4096:1480362716880
+10.128.9.138:20006:0:6144:1480362716543
+10.128.9.138:20005:0:3072:1480362715332
+10.128.9.138:20004:0:6144:1480362714977
+10.128.9.138:20003:0:9216:1480362720779
+10.128.9.138:20001:0:31245:1480362681005
